@@ -15,39 +15,39 @@
 //
 // =Core
 // --------------------------------------------------
-@import 'core';
+// @import 'core';
 //
 // =Bootstrap
 // --------------------------------------------------
-@import 'custom-bootstrap';
-@import 'bootstrap/bootstrap';
+// @import 'custom-bootstrap';
+// @import 'bootstrap/bootstrap';
 //
 // =Third parties
 // --------------------------------------------------
-$fa-font-path: '../third_party/node_modules/@fortawesome/fontawesome-free/webfonts';
-@import '../third_party/node_modules/@fortawesome/fontawesome-free/scss/fontawesome';
-@import '../third_party/node_modules/@fortawesome/fontawesome-free/scss/solid';
-@import '../third_party/node_modules/@fortawesome/fontawesome-free/scss/brands';
+// $fa-font-path: '../third_party/node_modules/@fortawesome/fontawesome-free/webfonts';
+// @import '../third_party/node_modules/@fortawesome/fontawesome-free/scss/fontawesome';
+// @import '../third_party/node_modules/@fortawesome/fontawesome-free/scss/solid';
+// @import '../third_party/node_modules/@fortawesome/fontawesome-free/scss/brands';
 //
 // =Partials
 // --------------------------------------------------
-@import 'partials/fonts';
-@import 'partials/icons';
-@import 'partials/scrollbar-measure';
+// @import 'partials/fonts';
+// @import 'partials/icons';
+// @import 'partials/scrollbar-measure';
 //
 // =Modules
 // --------------------------------------------------
 //@import "modules/facebook-responsive";
 //@import 'modules/iconHoverEffects/iconHoverEffects';
 //@import 'modules/creativeLinkEffects/creativeLinkEffects';
-@import 'modules/list';
+// @import 'modules/list';
 //
 // =Layout
 // --------------------------------------------------
-@import 'layout/header';
+// @import 'layout/header';
 @import 'layout/content';
-@import 'layout/footer';
+// @import 'layout/footer';
 //
 // =Pages
 // --------------------------------------------------
-@import 'pages/home';
+// @import 'pages/home';
